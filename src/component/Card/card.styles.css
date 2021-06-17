@@ -3,11 +3,8 @@
   flex-direction: column;
   background-color: #95dada;
   border: 1px solid grey;
-<<<<<<< HEAD
   border-radius: 30px;
-=======
   border-radius: 5px;
->>>>>>> 2ee0d7ee01d00c1f32a610c23d6dc14abf06b55a
   padding: 20px;
   cursor: pointer;
   -moz-osx-font-smoothing: grayscale;
